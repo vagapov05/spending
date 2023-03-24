@@ -1,0 +1,29 @@
+.costs-filter {
+  padding: 0 1rem;
+
+  color: white;
+}
+
+.costs-filter__control {
+  margin: 1rem 0;
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.costs-filter label {
+  margin-bottom: 0.5rem;
+
+  font-weight: bold;
+}
+
+.costs-filter select {
+  padding: 0.5rem 3rem;
+
+  font: inherit;
+  font-weight: bold;
+  
+  border-radius: 6px;
+}
